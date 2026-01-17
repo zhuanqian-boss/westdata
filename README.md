@@ -1,26 +1,25 @@
-# WestData西部数据机场官网地址
+# WestData西部数据机场官网链接
 
-最新地址：[wd-gold.com](https://wd-gold.com/aff.php?aff=12806)
+当前官网：[wd-gold.com](https://wd-gold.com/aff.php?aff=12806)
 
-## WestData介绍
+## 关于WestData
 
-WestData西部数据机场创建于2021年，节点协议全部使用Trojan。中国大陆BGP多线接入，拥有国际IPLC传输线路，多种流媒体服务访问解锁和ChatGPT解锁服务。
+WestData西部数据机场成立于2021年，采用Trojan协议的全节点架构。我们的服务在中国大陆拥有BGP多线路接入，同时配备了国际IPLC传输线路。我们致力于提供流媒体解锁和ChatGPT访问等多种服务。
 
-价格适中，最便宜套餐每月人民币20。最高500Mbps速率可用和每月800GiB流量。
+我们的服务价格合理，最便宜的套餐仅需每月人民币20元。用户可以享受最高500Mbps的速率和每月800GiB的流量。
 
-支持支付宝和USDT支付，暂不支持退款。
+支持支付宝和USDT支付，但目前不提供退款服务。
 
 ## WestData优惠码
 
-优惠券： MRR5H9CYAO
+优惠码：MRR5H9CYAO
 
-优惠将于 2024 年 1 月 31 日到期
+该优惠码有效期至2024年1月31日。
 
-## WestData价格
+## WestData价格方案
 
-|套餐|PASS SILVER|PASS PLATINUM|PASS DIAMOND|PASS ULTIMATE|
-|----|----|----|----|----|
-|月付|￥20|￥40|￥60|￥80|
-|半年付|￥110|￥220|￥330|￥440|
-|年付|￥200|￥400|￥600|￥800|
-
+| 套餐           | PASS SILVER | PASS PLATINUM | PASS DIAMOND | PASS ULTIMATE |
+|----------------|-------------|---------------|--------------|---------------|
+| 月付           | ￥20        | ￥40          | ￥60         | ￥80          |
+| 半年付         | ￥110       | ￥220         | ￥330        | ￥440         |
+| 年付           | ￥200       | ￥400         | ￥600        | ￥800         |
